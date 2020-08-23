@@ -1,4 +1,4 @@
-# Firefox Add-On: Netflix clean interface
+# Firefox Add-Ons: Netflix clean interface
 
 It offers a clean interface;
 
