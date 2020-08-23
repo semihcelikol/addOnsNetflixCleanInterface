@@ -1,0 +1,25 @@
+{
+  "name": "Netflix Clean Interface",
+  "description": "Netflix clean interface: It offers a clean interface.",
+  "manifest_version": 2,
+  "version": "1.1",
+  "homepage_url": "https://github.com/semihcelikol/blockYoutubeRecommendations",
+  "icons": {
+    "48": "icons/Icon-48.jpg",
+    "96": "icons/Icon-96.jpg"
+  },
+
+  "background": {
+    "scripts": ["background.js"]
+  },
+
+  "page_action": {
+    "default_icon": "icons/netflixPassive-19.jpg",
+    "browser_style": true
+  },
+
+  "permissions": [
+    "activeTab",
+    "tabs"
+  ]
+}
