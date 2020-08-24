@@ -2,8 +2,8 @@
   "name": "Netflix Clean Interface",
   "description": "Netflix clean interface: It offers a clean interface.",
   "manifest_version": 2,
-  "version": "1.1",
-  "homepage_url": "https://github.com/semihcelikol/blockYoutubeRecommendations",
+  "version": "1.2",
+  "homepage_url": "https://github.com/semihcelikol/addOnsNetflixCleanInterface",
   "icons": {
     "48": "icons/Icon-48.jpg",
     "96": "icons/Icon-96.jpg"
