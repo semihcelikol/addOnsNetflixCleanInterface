@@ -8,4 +8,4 @@ It offers a clean interface;
 * Closes large banners.
 
 
-☕ You can thank me and support me by ordering a coffee :) https://www.buymeacoffee.com/semihc
+<h3>☕ You can thank me and support me by ordering a coffee :) https://www.buymeacoffee.com/semihc</h3>
